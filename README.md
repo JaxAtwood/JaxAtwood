@@ -6,7 +6,7 @@ I am currently working on:
 
 :envelope: [Email](takalaj@verizon.net)
 :paperclip: [LinkedIn](https://www.linkedin.com/in/jackie-atwood/)
-:page_facing_up: ![](https://simpleicons.org/icons/linkedin.svg) [Resume](images/JackieAtwoodResume2.pdf)
+![](https://simpleicons.org/icons/linkedin.svg#thumbnail) [Resume](images/JackieAtwoodResume2.pdf)
 
 Tech Stack: 
 
