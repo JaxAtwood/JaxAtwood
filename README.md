@@ -1,5 +1,5 @@
 
-![](images/wow!.png)
+![](images/banner.png)
 
 ### Hi there 👋
 
