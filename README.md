@@ -1,19 +1,16 @@
 ### Hi there 👋
 ![](images/banner.png)
 
+Dallas/Fort Worth Area of Texas
+I am currently working on:
 
+:envelope: email - takalaj@verizon.net
+:paperclip: LinkedIn:
+Resume:
+CodeSandbox:
+CodePen:
 
-<!--
-**JaxAtwood/JaxAtwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech Stack: 
 
-Here are some ideas to get you started:
+In my freetime, you can find me gaming, listening to music, building model tanks, or studying.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
