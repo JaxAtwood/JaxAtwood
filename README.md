@@ -6,7 +6,7 @@ I am currently working on:
 
 :envelope: [Email](takalaj@verizon.net)
 :paperclip: [LinkedIn](https://www.linkedin.com/in/jackie-atwood/)
-![](https://simpleicons.org/icons/linkedin.svg=150x100) [Resume](images/JackieAtwoodResume2.pdf)
+![](https://simpleicons.org/icons/linkedin.svg#thumbnail) [Resume](images/JackieAtwoodResume2.pdf)
 
 Tech Stack: 
 
