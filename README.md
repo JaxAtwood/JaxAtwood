@@ -4,7 +4,7 @@
 Dallas/Fort Worth Area of Texas
 I am currently working on:
 
-:envelope: [Email](takalaj@verizon.net)
+<img src="https://img.icons8.com/material/100/000000/new-post--v1.png"/> [Email](takalaj@verizon.net)
 
 [Resume](images/JackieAtwoodResume2.pdf)
 <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn Logo"
